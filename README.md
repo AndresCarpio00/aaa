@@ -1,9 +1,7 @@
 # Mi primer repositorio
 
-Hola, soy Andrés Carpio.
+Hola, soy Carpio.
 Estoy aprendiendo Git y GitHub.
 
 ## Objetivo
 Aprender a controlar versiones.
-## lo q aprendi
-Añadir READM.md :
